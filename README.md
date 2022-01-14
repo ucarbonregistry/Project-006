@@ -25,8 +25,8 @@ Serial Number 0001-002232-002852-UCR-CoU-IN-006-01012018-31122018
 Vintage Year 2018
 Status Registered (Others)
 CoU's Available 621
-Serial Number 0001-002853-003479-UCR-CoU-IN-006-01012019-31122019
 
+Serial Number 0001-002853-003479-UCR-CoU-IN-006-01012019-31122019
 Vintage Year 2019
 Status Registered (Others)
 CoU's Available 627
